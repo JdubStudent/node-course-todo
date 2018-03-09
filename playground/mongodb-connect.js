@@ -45,7 +45,7 @@ MongoClient.connect(url, (error, client) => {
 
 //       if (error) return console.log(error);
 //       collection.insertOne({
-//         text: 'Complete INLO',
+//         text: 'Win Lottery!',
 //         completed: false
 //       }, (error, result) => {
   
